@@ -11,4 +11,7 @@ public class fluxograma {
             System.out.println("a diferença é: " + resultado );
 
         }
-    }
+
+
+
+}
