@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exe3 {
 
-    public static void main(String[] args) {git
+    public static void main(String[] args) {
 
         Scanner entradaDado = new Scanner(System.in);
         int num;
