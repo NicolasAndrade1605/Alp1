@@ -13,7 +13,7 @@ public class Exe2 {
             System.out.println("A) Arsenal ");
             System.out.println("B) Barcelona ");
             System.out.println("C) Real Madrid ");
-            System.out.println("D) Manchester City ");
+            System.out.println("D) Liverpool ");
             System.out.println("E) Manchester United ");
             System.out.println("-----------------------");
             System.out.println("digite sua resposta: ");
